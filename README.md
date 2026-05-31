@@ -15,7 +15,7 @@ An interactive, vision-driven robotic teleoperation framework engineered to faci
 ![Trajectory Prediction](https://github.com/Sanidhya-30/vision-aided-teleop/blob/main/media/traj_pred.gif)
 
 ### 3. Real-Time Robot Teleoperation
-![Real time teleoperation](https://github.com/Sanidhya-30/vision-aided-teleop/blob/main/media/Robot arm.gif)
+![Real time teleoperation](https://github.com/Sanidhya-30/vision-aided-teleop/blob/main/media/Robot_arm.gif)
 
 ---
 
